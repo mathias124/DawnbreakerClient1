@@ -1,3 +1,4 @@
+import controlP5.CColor;
 import controlP5.ControlP5;
 import processing.core.PApplet;
 public class UI {
@@ -14,14 +15,5 @@ public class UI {
         Textheight = p.height/2;
     }
 
-    public void Sender(){
-        cp5.addTextfield("Sender")
-                .setCaptionLabel("Input Your Email")
-                .setPosition(Textwidth -141, Textheight -250)
-                .setSize(282, 62)
-                .setAutoClear(false)
-                .setColorLabel(000000)
-        ;
-        p.rect(150,150,100,100);
-    }
+
 }

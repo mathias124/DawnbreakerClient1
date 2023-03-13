@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e752a8c-6cb9-4ef9-9031-0329ce15fcb4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/controlP5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gluegen-rt-natives-linux-aarch64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gluegen-rt-natives-linux-amd64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gluegen-rt-natives-linux-armv6hf.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gluegen-rt-natives-linux-i586.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gluegen-rt-natives-macosx-universal.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gluegen-rt-natives-windows-amd64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gluegen-rt-natives-windows-i586.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gluegen-rt.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jogl-all-natives-linux-aarch64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jogl-all-natives-linux-amd64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jogl-all-natives-linux-armv6hf.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jogl-all-natives-linux-i586.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jogl-all-natives-macosx-universal.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jogl-all-natives-windows-amd64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jogl-all-natives-windows-i586.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jogl-all.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExampleApplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DawnbreakerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processing-intellij.iml" beforeDir="false" afterPath="$PROJECT_DIR$/processing-intellij.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DawnbreakerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DawnbreakerClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +18,13 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,6 +60,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/Bruger/IdeaProjects/processing-intellij",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",

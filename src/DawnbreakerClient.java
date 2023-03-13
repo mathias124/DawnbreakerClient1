@@ -17,7 +17,6 @@ public class DawnbreakerClient extends PApplet {
 
     public static void main(String args[]) {
         PApplet.main("DawnbreakerClient");
-
     }
         Scanner in = new Scanner(System.in);
         String startSyntax = "helo martin";
@@ -25,12 +24,6 @@ public class DawnbreakerClient extends PApplet {
         String recipientSyntax = "rcpt to: ";
         String messageSyntax = "data";
         String quitSyntax = "quit";
-
-
-        //boolean pressed = false;
-
-
-
     public void settings() {
         size(1000, 500);
     }
@@ -40,8 +33,6 @@ public class DawnbreakerClient extends PApplet {
         uI = new UI(cp5, this);
         clear();
         background(133, 133, 170);
-
-        //ConfirmButton();
         TestB();
     }
 
@@ -142,7 +133,6 @@ public class DawnbreakerClient extends PApplet {
             e.printStackTrace();
         }
     }
-
     public void TestB(){
     cp5.addButton("SendMessage")
                 .setPosition(width/2 -100, height/2)
